@@ -1,0 +1,1619 @@
+GENERATION 0
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 3 2 0 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	2 3 1 0 
+80	0 1 3 2 
+95	3 0 2 1 
+95	1 0 3 2 
+
+Minimum Cost for Generation 0: 80
+
+GENERATION 1
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 1 3 2 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	2 3 1 0 
+80	0 2 3 1 
+95	1 0 3 2 
+95	1 2 3 0 
+
+Minimum Cost for Generation 1: 80
+
+GENERATION 2
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 2 3 1 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	2 3 1 0 
+80	2 0 1 3 
+95	1 2 3 0 
+95	3 0 1 2 
+
+Minimum Cost for Generation 2: 80
+
+GENERATION 3
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	2 0 1 3 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 3 1 0 
+80	3 2 0 1 
+95	3 0 1 2 
+95	3 1 2 0 
+
+Minimum Cost for Generation 3: 80
+
+GENERATION 4
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	3 2 0 1 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	2 3 1 0 
+80	1 0 2 3 
+95	3 1 2 0 
+95	0 3 2 1 
+
+Minimum Cost for Generation 4: 80
+
+GENERATION 5
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 0 2 3 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	2 3 1 0 
+80	1 3 2 0 
+95	0 3 2 1 
+95	3 2 1 0 
+
+Minimum Cost for Generation 5: 80
+
+GENERATION 6
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 3 2 0 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	2 3 1 0 
+80	0 1 3 2 
+95	3 2 1 0 
+95	0 1 2 3 
+
+Minimum Cost for Generation 6: 80
+
+GENERATION 7
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 1 3 2 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	2 3 1 0 
+80	0 2 3 1 
+95	0 1 2 3 
+95	2 1 0 3 
+
+Minimum Cost for Generation 7: 80
+
+GENERATION 8
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 2 3 1 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	2 3 1 0 
+80	2 0 1 3 
+95	2 1 0 3 
+95	1 2 0 3 
+
+Minimum Cost for Generation 8: 80
+
+GENERATION 9
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	2 0 1 3 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 3 1 0 
+80	3 2 0 1 
+95	1 2 0 3 
+95	3 0 2 1 
+
+Minimum Cost for Generation 9: 80
+
+GENERATION 10
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	3 2 0 1 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	2 3 1 0 
+80	1 0 2 3 
+95	3 0 2 1 
+95	1 0 3 2 
+
+Minimum Cost for Generation 10: 80
+
+GENERATION 11
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 0 2 3 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	2 3 1 0 
+80	1 3 2 0 
+95	1 0 3 2 
+95	1 2 3 0 
+
+Minimum Cost for Generation 11: 80
+
+GENERATION 12
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 3 2 0 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	2 3 1 0 
+80	0 1 3 2 
+95	1 2 3 0 
+95	3 0 1 2 
+
+Minimum Cost for Generation 12: 80
+
+GENERATION 13
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 1 3 2 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	2 3 1 0 
+80	0 2 3 1 
+95	3 0 1 2 
+95	3 1 2 0 
+
+Minimum Cost for Generation 13: 80
+
+GENERATION 14
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 2 3 1 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	2 3 1 0 
+80	2 0 1 3 
+95	3 1 2 0 
+95	0 3 2 1 
+
+Minimum Cost for Generation 14: 80
+
+GENERATION 15
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	2 0 1 3 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 3 1 0 
+80	3 2 0 1 
+95	0 3 2 1 
+95	3 2 1 0 
+
+Minimum Cost for Generation 15: 80
+
+GENERATION 16
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	3 2 0 1 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	2 3 1 0 
+80	1 0 2 3 
+95	3 2 1 0 
+95	0 1 2 3 
+
+Minimum Cost for Generation 16: 80
+
+GENERATION 17
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 0 2 3 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	2 3 1 0 
+80	1 3 2 0 
+95	0 1 2 3 
+95	2 1 0 3 
+
+Minimum Cost for Generation 17: 80
+
+GENERATION 18
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 3 2 0 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	2 3 1 0 
+80	0 1 3 2 
+95	2 1 0 3 
+95	1 2 0 3 
+
+Minimum Cost for Generation 18: 80
+
+GENERATION 19
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 1 3 2 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	2 3 1 0 
+80	0 2 3 1 
+95	1 2 0 3 
+95	3 0 2 1 
+
+Minimum Cost for Generation 19: 80
+
+GENERATION 20
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 2 3 1 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	2 3 1 0 
+80	2 0 1 3 
+95	3 0 2 1 
+95	1 0 3 2 
+
+Minimum Cost for Generation 20: 80
+
+GENERATION 21
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	2 0 1 3 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 3 1 0 
+80	3 2 0 1 
+95	1 0 3 2 
+95	1 2 3 0 
+
+Minimum Cost for Generation 21: 80
+
+GENERATION 22
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	3 2 0 1 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	2 3 1 0 
+80	1 0 2 3 
+95	1 2 3 0 
+95	3 0 1 2 
+
+Minimum Cost for Generation 22: 80
+
+GENERATION 23
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 0 2 3 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	2 3 1 0 
+80	1 3 2 0 
+95	3 0 1 2 
+95	3 1 2 0 
+
+Minimum Cost for Generation 23: 80
+
+GENERATION 24
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 3 2 0 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	2 3 1 0 
+80	0 1 3 2 
+95	3 1 2 0 
+95	0 3 2 1 
+
+Minimum Cost for Generation 24: 80
+
+GENERATION 25
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 1 3 2 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	2 3 1 0 
+80	0 2 3 1 
+95	0 3 2 1 
+95	3 2 1 0 
+
+Minimum Cost for Generation 25: 80
+
+GENERATION 26
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 2 3 1 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	2 3 1 0 
+80	2 0 1 3 
+95	3 2 1 0 
+95	0 1 2 3 
+
+Minimum Cost for Generation 26: 80
+
+GENERATION 27
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	2 0 1 3 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 3 1 0 
+80	3 2 0 1 
+95	0 1 2 3 
+95	2 1 0 3 
+
+Minimum Cost for Generation 27: 80
+
+GENERATION 28
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	3 2 0 1 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	2 3 1 0 
+80	1 0 2 3 
+95	2 1 0 3 
+95	1 2 0 3 
+
+Minimum Cost for Generation 28: 80
+
+GENERATION 29
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 0 2 3 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	2 3 1 0 
+80	1 3 2 0 
+95	1 2 0 3 
+95	3 0 2 1 
+
+Minimum Cost for Generation 29: 80
+
+GENERATION 30
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 3 2 0 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	2 3 1 0 
+80	0 1 3 2 
+95	3 0 2 1 
+95	1 0 3 2 
+
+Minimum Cost for Generation 30: 80
+
+GENERATION 31
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 1 3 2 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	2 3 1 0 
+80	0 2 3 1 
+95	1 0 3 2 
+95	1 2 3 0 
+
+Minimum Cost for Generation 31: 80
+
+GENERATION 32
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 2 3 1 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	2 3 1 0 
+80	2 0 1 3 
+95	1 2 3 0 
+95	3 0 1 2 
+
+Minimum Cost for Generation 32: 80
+
+GENERATION 33
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	2 0 1 3 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 3 1 0 
+80	3 2 0 1 
+95	3 0 1 2 
+95	3 1 2 0 
+
+Minimum Cost for Generation 33: 80
+
+GENERATION 34
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	3 2 0 1 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	2 3 1 0 
+80	1 0 2 3 
+95	3 1 2 0 
+95	0 3 2 1 
+
+Minimum Cost for Generation 34: 80
+
+GENERATION 35
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 0 2 3 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	2 3 1 0 
+80	1 3 2 0 
+95	0 3 2 1 
+95	3 2 1 0 
+
+Minimum Cost for Generation 35: 80
+
+GENERATION 36
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 3 2 0 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	2 3 1 0 
+80	0 1 3 2 
+95	3 2 1 0 
+95	0 1 2 3 
+
+Minimum Cost for Generation 36: 80
+
+GENERATION 37
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 1 3 2 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	2 3 1 0 
+80	0 2 3 1 
+95	0 1 2 3 
+95	2 1 0 3 
+
+Minimum Cost for Generation 37: 80
+
+GENERATION 38
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 2 3 1 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	2 3 1 0 
+80	2 0 1 3 
+95	2 1 0 3 
+95	1 2 0 3 
+
+Minimum Cost for Generation 38: 80
+
+GENERATION 39
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	2 0 1 3 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 3 1 0 
+80	3 2 0 1 
+95	1 2 0 3 
+95	3 0 2 1 
+
+Minimum Cost for Generation 39: 80
+
+GENERATION 40
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	3 2 0 1 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	2 3 1 0 
+80	1 0 2 3 
+95	3 0 2 1 
+95	1 0 3 2 
+
+Minimum Cost for Generation 40: 80
+
+GENERATION 41
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 0 2 3 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	2 3 1 0 
+80	1 3 2 0 
+95	1 0 3 2 
+95	1 2 3 0 
+
+Minimum Cost for Generation 41: 80
+
+GENERATION 42
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 3 2 0 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	2 3 1 0 
+80	0 1 3 2 
+95	1 2 3 0 
+95	3 0 1 2 
+
+Minimum Cost for Generation 42: 80
+
+GENERATION 43
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 1 3 2 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	2 3 1 0 
+80	0 2 3 1 
+95	3 0 1 2 
+95	3 1 2 0 
+
+Minimum Cost for Generation 43: 80
+
+GENERATION 44
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 2 3 1 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	2 3 1 0 
+80	2 0 1 3 
+95	3 1 2 0 
+95	0 3 2 1 
+
+Minimum Cost for Generation 44: 80
+
+GENERATION 45
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	2 0 1 3 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 3 1 0 
+80	3 2 0 1 
+95	0 3 2 1 
+95	3 2 1 0 
+
+Minimum Cost for Generation 45: 80
+
+GENERATION 46
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	3 2 0 1 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	2 3 1 0 
+80	1 0 2 3 
+95	3 2 1 0 
+95	0 1 2 3 
+
+Minimum Cost for Generation 46: 80
+
+GENERATION 47
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 0 2 3 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	2 3 1 0 
+80	1 3 2 0 
+95	0 1 2 3 
+95	2 1 0 3 
+
+Minimum Cost for Generation 47: 80
+
+GENERATION 48
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 3 2 0 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	2 3 1 0 
+80	0 1 3 2 
+95	2 1 0 3 
+95	1 2 0 3 
+
+Minimum Cost for Generation 48: 80
+
+GENERATION 49
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 1 3 2 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	2 3 1 0 
+80	0 2 3 1 
+95	1 2 0 3 
+95	3 0 2 1 
+
+Minimum Cost for Generation 49: 80
+
+GENERATION 50
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 2 3 1 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	2 3 1 0 
+80	2 0 1 3 
+95	3 0 2 1 
+95	1 0 3 2 
+
+Minimum Cost for Generation 50: 80
+
+GENERATION 51
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	2 0 1 3 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 3 1 0 
+80	3 2 0 1 
+95	1 0 3 2 
+95	1 2 3 0 
+
+Minimum Cost for Generation 51: 80
+
+GENERATION 52
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	3 2 0 1 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	2 3 1 0 
+80	1 0 2 3 
+95	1 2 3 0 
+95	3 0 1 2 
+
+Minimum Cost for Generation 52: 80
+
+GENERATION 53
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 0 2 3 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	2 3 1 0 
+80	1 3 2 0 
+95	3 0 1 2 
+95	3 1 2 0 
+
+Minimum Cost for Generation 53: 80
+
+GENERATION 54
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 3 2 0 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	2 3 1 0 
+80	0 1 3 2 
+95	3 1 2 0 
+95	0 3 2 1 
+
+Minimum Cost for Generation 54: 80
+
+GENERATION 55
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 1 3 2 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	2 3 1 0 
+80	0 2 3 1 
+95	0 3 2 1 
+95	3 2 1 0 
+
+Minimum Cost for Generation 55: 80
+
+GENERATION 56
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 2 3 1 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	2 3 1 0 
+80	2 0 1 3 
+95	3 2 1 0 
+95	0 1 2 3 
+
+Minimum Cost for Generation 56: 80
+
+GENERATION 57
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	2 0 1 3 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 3 1 0 
+80	3 2 0 1 
+95	0 1 2 3 
+95	2 1 0 3 
+
+Minimum Cost for Generation 57: 80
+
+GENERATION 58
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	3 2 0 1 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	2 3 1 0 
+80	1 0 2 3 
+95	2 1 0 3 
+95	1 2 0 3 
+
+Minimum Cost for Generation 58: 80
+
+GENERATION 59
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 0 2 3 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	2 3 1 0 
+80	1 3 2 0 
+95	1 2 0 3 
+95	3 0 2 1 
+
+Minimum Cost for Generation 59: 80
+
+GENERATION 60
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 3 2 0 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	2 3 1 0 
+80	0 1 3 2 
+95	3 0 2 1 
+95	1 0 3 2 
+
+Minimum Cost for Generation 60: 80
+
+GENERATION 61
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 1 3 2 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	2 3 1 0 
+80	0 2 3 1 
+95	1 0 3 2 
+95	1 2 3 0 
+
+Minimum Cost for Generation 61: 80
+
+GENERATION 62
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 2 3 1 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	2 3 1 0 
+80	2 0 1 3 
+95	1 2 3 0 
+95	3 0 1 2 
+
+Minimum Cost for Generation 62: 80
+
+GENERATION 63
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	2 0 1 3 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 3 1 0 
+80	3 2 0 1 
+95	3 0 1 2 
+95	3 1 2 0 
+
+Minimum Cost for Generation 63: 80
+
+GENERATION 64
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	3 2 0 1 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	2 3 1 0 
+80	1 0 2 3 
+95	3 1 2 0 
+95	0 3 2 1 
+
+Minimum Cost for Generation 64: 80
+
+GENERATION 65
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 0 2 3 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	2 3 1 0 
+80	1 3 2 0 
+95	0 3 2 1 
+95	3 2 1 0 
+
+Minimum Cost for Generation 65: 80
+
+GENERATION 66
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 3 2 0 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	2 3 1 0 
+80	0 1 3 2 
+95	3 2 1 0 
+95	0 1 2 3 
+
+Minimum Cost for Generation 66: 80
+
+GENERATION 67
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 1 3 2 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	2 3 1 0 
+80	0 2 3 1 
+95	0 1 2 3 
+95	2 1 0 3 
+
+Minimum Cost for Generation 67: 80
+
+GENERATION 68
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 2 3 1 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	2 3 1 0 
+80	2 0 1 3 
+95	2 1 0 3 
+95	1 2 0 3 
+
+Minimum Cost for Generation 68: 80
+
+GENERATION 69
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	2 0 1 3 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 3 1 0 
+80	3 2 0 1 
+95	1 2 0 3 
+95	3 0 2 1 
+
+Minimum Cost for Generation 69: 80
+
+GENERATION 70
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	3 2 0 1 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	2 3 1 0 
+80	1 0 2 3 
+95	3 0 2 1 
+95	1 0 3 2 
+
+Minimum Cost for Generation 70: 80
+
+GENERATION 71
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 0 2 3 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	2 3 1 0 
+80	1 3 2 0 
+95	1 0 3 2 
+95	1 2 3 0 
+
+Minimum Cost for Generation 71: 80
+
+GENERATION 72
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 3 2 0 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	2 3 1 0 
+80	0 1 3 2 
+95	1 2 3 0 
+95	3 0 1 2 
+
+Minimum Cost for Generation 72: 80
+
+GENERATION 73
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 1 3 2 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	2 3 1 0 
+80	0 2 3 1 
+95	3 0 1 2 
+95	3 1 2 0 
+
+Minimum Cost for Generation 73: 80
+
+GENERATION 74
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 2 3 1 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	2 3 1 0 
+80	2 0 1 3 
+95	3 1 2 0 
+95	0 3 2 1 
+
+Minimum Cost for Generation 74: 80
+
+GENERATION 75
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	2 0 1 3 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 3 1 0 
+80	3 2 0 1 
+95	0 3 2 1 
+95	3 2 1 0 
+
+Minimum Cost for Generation 75: 80
+
+GENERATION 76
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	3 2 0 1 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	2 3 1 0 
+80	1 0 2 3 
+95	3 2 1 0 
+95	0 1 2 3 
+
+Minimum Cost for Generation 76: 80
+
+GENERATION 77
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 0 2 3 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	2 3 1 0 
+80	1 3 2 0 
+95	0 1 2 3 
+95	2 1 0 3 
+
+Minimum Cost for Generation 77: 80
+
+GENERATION 78
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 3 2 0 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	2 3 1 0 
+80	0 1 3 2 
+95	2 1 0 3 
+95	1 2 0 3 
+
+Minimum Cost for Generation 78: 80
+
+GENERATION 79
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 1 3 2 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	2 3 1 0 
+80	0 2 3 1 
+95	1 2 0 3 
+95	3 0 2 1 
+
+Minimum Cost for Generation 79: 80
+
+GENERATION 80
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 2 3 1 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	2 3 1 0 
+80	2 0 1 3 
+95	3 0 2 1 
+95	1 0 3 2 
+
+Minimum Cost for Generation 80: 80
+
+GENERATION 81
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	2 0 1 3 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 3 1 0 
+80	3 2 0 1 
+95	1 0 3 2 
+95	1 2 3 0 
+
+Minimum Cost for Generation 81: 80
+
+GENERATION 82
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	3 2 0 1 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	2 3 1 0 
+80	1 0 2 3 
+95	1 2 3 0 
+95	3 0 1 2 
+
+Minimum Cost for Generation 82: 80
+
+GENERATION 83
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 0 2 3 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	2 3 1 0 
+80	1 3 2 0 
+95	3 0 1 2 
+95	3 1 2 0 
+
+Minimum Cost for Generation 83: 80
+
+GENERATION 84
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 3 2 0 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	2 3 1 0 
+80	0 1 3 2 
+95	3 1 2 0 
+95	0 3 2 1 
+
+Minimum Cost for Generation 84: 80
+
+GENERATION 85
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 1 3 2 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	2 3 1 0 
+80	0 2 3 1 
+95	0 3 2 1 
+95	3 2 1 0 
+
+Minimum Cost for Generation 85: 80
+
+GENERATION 86
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 2 3 1 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	2 3 1 0 
+80	2 0 1 3 
+95	3 2 1 0 
+95	0 1 2 3 
+
+Minimum Cost for Generation 86: 80
+
+GENERATION 87
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	2 0 1 3 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 3 1 0 
+80	3 2 0 1 
+95	0 1 2 3 
+95	2 1 0 3 
+
+Minimum Cost for Generation 87: 80
+
+GENERATION 88
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	3 2 0 1 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	2 3 1 0 
+80	1 0 2 3 
+95	2 1 0 3 
+95	1 2 0 3 
+
+Minimum Cost for Generation 88: 80
+
+GENERATION 89
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 0 2 3 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	2 3 1 0 
+80	1 3 2 0 
+95	1 2 0 3 
+95	3 0 2 1 
+
+Minimum Cost for Generation 89: 80
+
+GENERATION 90
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 3 2 0 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	2 3 1 0 
+80	0 1 3 2 
+95	3 0 2 1 
+95	1 0 3 2 
+
+Minimum Cost for Generation 90: 80
+
+GENERATION 91
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 1 3 2 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	2 3 1 0 
+80	0 2 3 1 
+95	1 0 3 2 
+95	1 2 3 0 
+
+Minimum Cost for Generation 91: 80
+
+GENERATION 92
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 2 3 1 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	2 3 1 0 
+80	2 0 1 3 
+95	1 2 3 0 
+95	3 0 1 2 
+
+Minimum Cost for Generation 92: 80
+
+GENERATION 93
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	2 0 1 3 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 3 1 0 
+80	3 2 0 1 
+95	3 0 1 2 
+95	3 1 2 0 
+
+Minimum Cost for Generation 93: 80
+
+GENERATION 94
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	3 2 0 1 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	2 3 1 0 
+80	1 0 2 3 
+95	3 1 2 0 
+95	0 3 2 1 
+
+Minimum Cost for Generation 94: 80
+
+GENERATION 95
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 0 2 3 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	2 3 1 0 
+80	1 3 2 0 
+95	0 3 2 1 
+95	3 2 1 0 
+
+Minimum Cost for Generation 95: 80
+
+GENERATION 96
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	1 3 2 0 
+80	0 2 3 1 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	2 3 1 0 
+80	0 1 3 2 
+95	3 2 1 0 
+95	0 1 2 3 
+
+Minimum Cost for Generation 96: 80
+
+GENERATION 97
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 1 3 2 
+80	2 0 1 3 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	2 3 1 0 
+80	0 2 3 1 
+95	0 1 2 3 
+95	2 1 0 3 
+
+Minimum Cost for Generation 97: 80
+
+GENERATION 98
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	0 2 3 1 
+80	3 2 0 1 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	2 3 1 0 
+80	2 0 1 3 
+95	2 1 0 3 
+95	1 2 0 3 
+
+Minimum Cost for Generation 98: 80
+
+GENERATION 99
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	2 0 1 3 
+80	1 0 2 3 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 3 1 0 
+80	3 2 0 1 
+95	1 2 0 3 
+95	3 0 2 1 
+
+Minimum Cost for Generation 99: 80
+
+GENERATION 100
+POPULATION SIZE: 24
+COST	PATH
+80	3 1 0 2 
+80	3 2 0 1 
+80	1 3 2 0 
+80	0 1 3 2 
+80	0 2 3 1 
+80	2 0 1 3 
+80	2 3 1 0 
+80	1 0 2 3 
+95	3 0 2 1 
+95	1 0 3 2 
+
+Minimum Cost for Generation 100: 80
+
+COST: 80
+FINAL PATH: 
+3->1->0->2->
